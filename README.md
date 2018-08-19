@@ -16,7 +16,7 @@ mobx学习成本更低，性能更好的状态解决方案
 Mobx提供机制来存储和更新应用状态供React使用
 通过提供机制把应用状态转为可渲染组件树并对其进行渲染
 
-##安装环境
+## 安装环境
 ```
 yarn add webpack webpack-cli babel-loader babel-core babel-preset-env babel-preset-react babel-preset-stage-0
 babel-plugin-transform-decorators-legacy
